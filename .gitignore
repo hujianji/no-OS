@@ -12,3 +12,8 @@ dfp_drivers
 aducm_project
 aducm_build
 
+*.a
+*.o
+*.d
+*.hex
+*.hdf
